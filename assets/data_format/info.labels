@@ -1,0 +1,61 @@
+<------------------ Sample File ------------------>
+
+{
+    "version": 1,
+    "files": [
+        {
+            "path": "cubes.23im33f2.jpg",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "cubes"
+            },
+            "metadata": {
+                "version": "2023-1234-LAB"
+            },
+            "boundingBoxes": [
+                {
+                    "label": "green",
+                    "x": 105,
+                    "y": 201,
+                    "width": 91,
+                    "height": 90
+                },
+                {
+                    "label": "blue",
+                    "x": 283,
+                    "y": 233,
+                    "width": 86,
+                    "height": 87
+                }
+            ]
+        },
+        {
+            "path": "cubes.23j3rclu.jpg",
+            "category": "testing",
+            "label": {
+                "type": "label",
+                "label": "cubes"
+            },
+            "metadata": {
+                "version": "2023-4567-PROD"
+            },
+            "boundingBoxes": [
+                {
+                    "label": "red",
+                    "x": 200,
+                    "y": 206,
+                    "width": 74,
+                    "height": 75
+                },
+                {
+                    "label": "yellow",
+                    "x": 370,
+                    "y": 245,
+                    "width": 79,
+                    "height": 73
+                }
+            ]
+        }
+    ]
+}
